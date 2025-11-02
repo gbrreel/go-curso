@@ -18,4 +18,5 @@ func main() {
 	ponteiro = &variavel3
 
 	fmt.Println(variavel3, ponteiro)
+
 }
